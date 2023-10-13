@@ -1,3 +1,4 @@
+[![MasterHead](https://res.cloudinary.com/dbkcvkodl/image/upload/v1697188663/coding_animation_agrru3.webp)]
 <h1 align="center">Hi 🐱‍👤, I'm Steven Joseph</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img alt="coding" src="https://res.cloudinary.com/dbkcvkodl/image/upload/v1697188663/coding_animation_agrru3.webp"/>
