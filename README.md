@@ -3,7 +3,7 @@
 <img align="center" width="1000" height:"200" alt="coding" src="https://res.cloudinary.com/dbkcvkodl/image/upload/v1697188663/coding_animation_agrru3.webp"/>
 - 🔭 I’m currently working on Project called **Techreveal Sequelize**
 
-- 🌱 I’m currently learning **Sequelize**
+- 🌱 I’m currently learning **Sanity**
 
 - 💬 Ask me about **MERN Stack technology**
 
