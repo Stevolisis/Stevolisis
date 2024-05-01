@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🐱‍👤, I'm Steven Joseph</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Full MERN Stack Developer</h3>
 <img align="center" width="1000" height:"200" alt="coding" src="https://res.cloudinary.com/dbkcvkodl/image/upload/v1697188663/coding_animation_agrru3.webp"/>
 - 🔭 I’m currently working on Project called **SanBlog**
 
