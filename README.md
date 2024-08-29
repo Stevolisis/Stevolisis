@@ -3,7 +3,7 @@
 <img align="center" width="1000" height:"200" alt="coding" src="https://res.cloudinary.com/dbkcvkodl/image/upload/v1697188663/coding_animation_agrru3.webp"/>
 - 🔭 I’m currently working on Project called **Green Mamba Crypto Reward Blog**
 
-- 🌱 I’m currently learning **Solidity, React Native and Zustand**
+- 🌱 I’m currently learning **Solidity React Native and Zustand**
 
 - 💬 Ask me about **MERN Stack technology**
 
