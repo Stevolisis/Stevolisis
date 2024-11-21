@@ -10,14 +10,14 @@
 - 📫 How to reach me **stevolisisjoseph@gmail.com**
 
 <h2 align="center">Work and Projects </h2>
-- <a href="https://carmagard.com" target="blank">https://carmagard.com</a><br/>
-- <a href="https://e-commerce-three-neon.vercel.app" target="blank">https://e-commerce-three-neon.vercel.app</a>  -  <span>Providing Ecommerce Services to users</span><br/>
-- <a href="https://e-commerce-three-neon.vercel.app/admin" target="blank">https://e-commerce-three-neon.vercel.appadmin  -  Admin Dashboard for operating an ecommerce store</a><br/>
-- <a href="https://grandeur-elpic-teams.vercel.app" target="blank">https://grandeur-elpic-teams.vercel.app  -  Real Estate Listing and Booking Webapp </a><br/>
-- <a href="https://techreveal.vercel.app" target="blank">https://techreveal.vercel.app  -  A Tech Blog for developers to stay in touch with the latest tech news and technology.</a><br/>
-- <a href="https://oatreels.vercel.app" target="blank">https://oatreels.vercel.app  -  Movie WebApp: Access new and trending movies and tv shows.</a><br/>
-- <a href="techtime-roan.vercel.app" target="blank">techtime-roan.vercel.app   -   Landing Page </a><br/>
-- <a href="https://green-mamba.vercel.app" target="blank">https://green-mamba.vercel.app   -   Crypto Blog for crypto content creators. Create content and get rewarded in crypto</a><br/>
+- <a href="https://carmagard.com" target="blank">https://carmagard.com</a><span>Mechanic booking platform connecting vehicle owners with certified mechanics.</span><br/>
+- <a href="https://e-commerce-three-neon.vercel.app" target="blank">https://e-commerce-three-neon.vercel.app</a>  -  <span>Providing Ecommerce Services</span><br/>
+- <a href="https://e-commerce-three-neon.vercel.app/admin" target="blank">https://e-commerce-three-neon.vercel.appadmin</a><span>  -  Admin Dashboard for operating an ecommerce store</span><br/>
+- <a href="https://grandeur-elpic-teams.vercel.app" target="blank">https://grandeur-elpic-teams.vercel.app</a><span>  -  Real Estate Listing and Booking Webapp </span><br/>
+- <a href="https://techreveal.vercel.app" target="blank">https://techreveal.vercel.app </a><span> -  A Tech Blog for developers to stay in touch with the latest tech news and technology.</span><br/>
+- <a href="https://oatreels.vercel.app" target="blank">https://oatreels.vercel.app</a><span>  -  Movie WebApp: Access new and trending movies and tv shows.</span><br/>
+- <a href="techtime-roan.vercel.app" target="blank">techtime-roan.vercel.app</a><span>   -   Landing Page </span><br/>
+- <a href="https://green-mamba.vercel.app" target="blank">https://green-mamba.vercel.app</a><span>   -   Crypto Blog for crypto content creators. Create content and get rewarded in crypto</span><br/>
 <br/>
 <br/>
 <br/>
