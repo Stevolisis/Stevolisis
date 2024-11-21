@@ -10,6 +10,16 @@
 - 📫 How to reach me **stevolisisjoseph@gmail.com**
 
 <h2 align="center">Work and Projects </h2>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="[https://twitter.com/stevolisis](https://e-commerce-three-neon.vercel.app)" target="blank">https://e-commerce-three-neon.vercel.app</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
+- <a href="https://carmagard.com" target="blank">carmagard.com</a>
 https://green-mamba.vercel.app/
 
 https://grandeur-elpic-teams.vercel.app
