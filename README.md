@@ -11,26 +11,13 @@
 
 <h2 align="center">Work and Projects </h2>
 - <a href="https://carmagard.com" target="blank">carmagard.com</a><br/>
-- <a href="[https://twitter.com/stevolisis](https://e-commerce-three-neon.vercel.app)" target="blank">https://e-commerce-three-neon.vercel.app</a><br/>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-- <a href="https://carmagard.com" target="blank">carmagard.com</a>
-https://green-mamba.vercel.app/
-
-https://grandeur-elpic-teams.vercel.app
-https://carmagard.com
-https://mechanic.carmagard.com         Not active 
-https://admin.carmagard.com/              Not active
-
-https://techtime-roan.vercel.app/
-https://e-commerce-three-neon.vercel.app/
-https://oatreels.vercel.app/
-https://techreveal.vercel.app/
+- <a href="https://e-commerce-three-neon.vercel.app" target="blank">https://e-commerce-three-neon.vercel.app  -  Providing Ecommerce Services to users</a><br/>
+- <a href="https://e-commerce-three-neon.vercel.app/admin" target="blank">https://e-commerce-three-neon.vercel.appadmin  -  Admin Dashboard for operating an ecommerce store</a><br/>
+- <a href="https://grandeur-elpic-teams.vercel.app" target="blank">https://grandeur-elpic-teams.vercel.app  -  Real Estate Listing and Booking Webapp </a><br/>
+- <a href="https://techreveal.vercel.app" target="blank">https://techreveal.vercel.app  -  A Tech Blog for developers to stay in touch with the latest tech news and technology.</a><br/>
+- <a href="https://oatreels.vercel.app" target="blank">https://oatreels.vercel.app  -  Movie WebApp: Access new and trending movies and tv shows.</a><br/>
+- <a href="techtime-roan.vercel.app" target="blank">techtime-roan.vercel.app   -   Landing Page </a><br/>
+- <a href="https://green-mamba.vercel.app" target="blank">https://green-mamba.vercel.app   -   Crypto Blog for crypto content creators. Create content and get rewarded in crypto</a><br/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevolisis" alt="stevolisis" /></a> </p>
