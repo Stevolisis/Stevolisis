@@ -7,7 +7,21 @@
 
 - 💬 Ask me about **MERN Stack technology**
 
-- 📫 How to reach me **stevolisisjosephpur@gmail.com**
+- 📫 How to reach me **stevolisisjoseph@gmail.com**
+
+<h2 align="center">Work and Projects </h2>
+https://green-mamba.vercel.app/
+
+https://grandeur-elpic-teams.vercel.app
+https://carmagard.com
+https://mechanic.carmagard.com         Not active 
+https://admin.carmagard.com/              Not active
+
+https://techtime-roan.vercel.app/
+https://e-commerce-three-neon.vercel.app/
+https://oatreels.vercel.app/
+https://techreveal.vercel.app/
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevolisis" alt="stevolisis" /></a> </p>
 
