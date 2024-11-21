@@ -11,7 +11,7 @@
 
 <h2 align="center">Work and Projects </h2>
 - <a href="https://carmagard.com" target="blank">https://carmagard.com</a><br/>
-- <a href="https://e-commerce-three-neon.vercel.app" target="blank">https://e-commerce-three-neon.vercel.app</a><br/>  -  <p>Providing Ecommerce Services to users</p>
+- <a href="https://e-commerce-three-neon.vercel.app" target="blank">https://e-commerce-three-neon.vercel.app</a><br/>  -  <span>Providing Ecommerce Services to users</span>
 - <a href="https://e-commerce-three-neon.vercel.app/admin" target="blank">https://e-commerce-three-neon.vercel.appadmin  -  Admin Dashboard for operating an ecommerce store</a><br/>
 - <a href="https://grandeur-elpic-teams.vercel.app" target="blank">https://grandeur-elpic-teams.vercel.app  -  Real Estate Listing and Booking Webapp </a><br/>
 - <a href="https://techreveal.vercel.app" target="blank">https://techreveal.vercel.app  -  A Tech Blog for developers to stay in touch with the latest tech news and technology.</a><br/>
