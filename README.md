@@ -1,10 +1,8 @@
-<h1 align="center">Hi fam, Its Steven Joseph</h1>
+<h1 align="center">Hi Fam, It's Steven Joseph</h1>
 <h3 align="center">A Full MERN Stack Developer</h3>
 <img align="center" width="1000" height:"200" alt="coding" src="https://res.cloudinary.com/dbkcvkodl/image/upload/v1697188663/coding_animation_agrru3.webp"/>
 
-- 🌱 I’m currently working on Project called **Green Mamba: A Crypto Reward Blog for crypto writers**
-
-- 🌱 I’m currently learning **Solidity React Native and Zustand**
+- 🌱 I’m currently working on Product called **Snipost: A proof of work layer for web3 developers**
 
 - 💬 Ask me about **MERN Stack technology**
 
@@ -13,9 +11,9 @@
 <h2 align="center">Work and Projects </h2>
 - <a href="https://carmagard.com" target="blank">https://carmagard.com</a><span>  -  Mechanic booking platform connecting vehicle owners with certified mechanics.</span><br/>
 - <a href="https://e-commerce-three-neon.vercel.app" target="blank">https://e-commerce-three-neon.vercel.app</a>  -  <span>Providing Ecommerce Services</span><br/>
-- <a href="https://e-commerce-three-neon.vercel.app/admin" target="blank">https://e-commerce-three-neon.vercel.app/admin/dashboard</a><span>  -  Admin Dashboard for operating an ecommerce store</span><br/>
 - <a href="https://e-commerce-three-neon.vercel.app/admin/dashboard" target="blank">https://e-commerce-three-neon.vercel.app/admin/dashboard</a><span>  -  Admin Dashboard for operating an ecommerce store</span><br/>
 - <a href="https://snipost-snap-editor.vercel.app/snap-editor/blank" target="blank">https://snipost-snap-editor.vercel.app/snap-editor/blank</a><span>  -  Visual Editor for developers to design code presentations and explainers </span><br/>
+- <a href="https://grandeur-elpic-teams.vercel.app" target="blank">https://grandeur-elpic-teams.vercel.app</a><span>  -  Real Estate Listing and Booking Webapp </span><br/>
 - <a href="https://techreveal.vercel.app" target="blank">https://techreveal.vercel.app </a><span> -  A Tech Blog for developers to stay in touch with the latest tech news and technology.</span><br/>
 - <a href="https://oatreels.vercel.app" target="blank">https://oatreels.vercel.app</a><span>  -  Movie WebApp: Access new and trending movies and tv shows.</span><br/>
 - <a href="techtime-roan.vercel.app" target="blank">techtime-roan.vercel.app</a><span>   -   Landing Page </span><br/>
