@@ -9,7 +9,6 @@
 - 📫 How to reach me **stevolisisjoseph@gmail.com**
 
 <h2 align="center">Work and Projects </h2>
-- <a href="https://carmagard.com" target="blank">https://carmagard.com</a><span>  -  Mechanic booking platform connecting vehicle owners with certified mechanics.</span><br/>
 - <a href="https://e-commerce-three-neon.vercel.app" target="blank">https://e-commerce-three-neon.vercel.app</a>  -  <span>Providing Ecommerce Services</span><br/>
 - <a href="https://e-commerce-three-neon.vercel.app/admin/dashboard" target="blank">https://e-commerce-three-neon.vercel.app/admin/dashboard</a><span>  -  Admin Dashboard for operating an ecommerce store</span><br/>
 - <a href="https://snipost-snap-editor.vercel.app/snap-editor/blank" target="blank">https://snipost-snap-editor.vercel.app/snap-editor/blank</a><span>  -  Visual Editor for developers to design code presentations and explainers </span><br/>
@@ -19,6 +18,8 @@
 - <a href="techtime-roan.vercel.app" target="blank">techtime-roan.vercel.app</a><span>   -   Landing Page </span><br/>
 - <a href="https://green-mamba.vercel.app" target="blank">https://green-mamba.vercel.app</a><span>   -   Crypto Blog for crypto content creators. Create content and get rewarded in crypto</span><br/>
 - <a href="https://subuddy.vercel.app" target="blank">https://subuddy.vercel.app/</a><span>  - Share and join subscriptions effortlessly. Save money on your favorite services by connecting with a community of trusted users.</span><br/>
+- <a href="https://carmagard.com" target="blank">https://carmagard.com</a><span>  -  Mechanic booking platform connecting vehicle owners with certified mechanics.</span><br/>
+
 <br/>
 <br/>
 <br/>
