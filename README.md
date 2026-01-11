@@ -18,6 +18,7 @@
 - <a href="https://oatreels.vercel.app" target="blank">https://oatreels.vercel.app</a><span>  -  Movie WebApp: Access new and trending movies and tv shows.</span><br/>
 - <a href="techtime-roan.vercel.app" target="blank">techtime-roan.vercel.app</a><span>   -   Landing Page </span><br/>
 - <a href="https://green-mamba.vercel.app" target="blank">https://green-mamba.vercel.app</a><span>   -   Crypto Blog for crypto content creators. Create content and get rewarded in crypto</span><br/>
+- <a href="https://subuddy.vercel.app" target="blank">https://subuddy.vercel.app/</a><span>  - Share and join subscriptions effortlessly. Save money on your favorite services by connecting with a community of trusted users.</span><br/>
 <br/>
 <br/>
 <br/>
